@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import CV from '../../assets/Tech_Engineer_Resume_Template.pdf'
+import CV from '../../assets/Arnab Paul cV(main)'
 
 
 const Header = () => {
