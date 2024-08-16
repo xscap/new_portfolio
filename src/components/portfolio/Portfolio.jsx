@@ -48,10 +48,11 @@ function Portfolio() {
             <img src={IMG3} alt="" />
           </div>
             <h3>
-              Students Marks Analysis
+              My AI
             </h3>
             <div className="portfolio_item-cta">
-            <a href="https://github.com/xscap/DA2" className='btn' target = '_blank'>Source Code</a>
+            <a href="https://github.com/xscap/gem-clone" className='btn' target = '_blank'>Source Code</a>
+            <a href="https://xscap.github.io/newclone/" className='btn' target = '_blank'>Live Preview</a>
             
           </div>
           
